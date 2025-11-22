@@ -1,0 +1,8 @@
+{
+  "name": "PrivAI - Contextual Privacy Guardian",
+  "description": "An AI-powered digital bodyguard that detects sensitive information, understands privacy context, and sanitizes data before you share it.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
